@@ -5,7 +5,6 @@
 ##Actividad 1
 - Programa 1
 - Programa 
-
 - Nombre de ususario git:
 - elenagu-blip
 - correro: elena.gupk@gmail.com
