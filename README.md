@@ -33,7 +33,7 @@
 - p014-funciones-matematicas-precios.py 
 - p015-funciones-trigonometricas.py
 
-#Actividad 5- Elementos básicos parte 3
+#Tarea1- Elementos básicos parte 3
 - p016-hipotenusa-triangulo.py
 - p017-tercer-angulo.py
 - p018-convertir-temperatura.py
@@ -42,3 +42,12 @@
 - p021-numero-suerte.py
 - p022-distancia-entre-puntos.py
 - p023-resistencia-equivalente-paralelo.py
+
+#Actividad 5 - Ejecución condicional
+- p024-verificar-numero.py
+- p025-verificar-numero-v2.py
+- p026-verificar-suma.py
+- p027–convertir-temperaturas-v2.py
+- p028-calcular-paga-extra.py
+- p029-retira-cuenta.py
+- p030-calculadora-descuento.py
