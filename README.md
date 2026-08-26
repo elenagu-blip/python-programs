@@ -2,14 +2,15 @@
 ##Programas desarrollados durante el curso
 - Nombre: Karla Elena
 - Correro: elena.gupk@gmail.com
-##Actividad 1
+
+#Actividad 1
 - Programa 1
 - Programa 
 - Nombre de ususario git:
 - elenagu-blip
 - correro: elena.gupk@gmail.com
 
-##Actividad 2
+#Actividad 2
 - Programa 3
 - Programa 4 
 - Programa 5
@@ -51,3 +52,11 @@
 - p028-calcular-paga-extra.py
 - p029-retira-cuenta.py
 - p030-calculadora-descuento.py
+
+#Actividad 6 - Ejecución Condicional (Parte 2)
+- p031-verifica-suma.py
+- p032-2da-ley-de-newton.py
+- p033-aceptar-estudiante.py
+- p034-aceptar-estudiante-v2.py
+- p035-tipo-angulo.py
+- p036-tipo-triangulo.py
