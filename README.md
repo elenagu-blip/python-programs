@@ -1,5 +1,5 @@
 #Computacion Aplicada
-##Programas desarrollados durante el curso
+#Programas desarrollados durante el curso
 - Nombre: Karla Elena
 - Correro: elena.gupk@gmail.com
 
@@ -60,3 +60,13 @@
 - p034-aceptar-estudiante-v2.py
 - p035-tipo-angulo.py
 - p036-tipo-triangulo.py
+
+#Tarea 2 Ejecución Condicional (Parte 3)
+- p037-numeros-consecutivos.py
+- p038-numero-mayor.py
+- p039-dia-semana.py
+- p040-numeros-romanos.py
+- p041-calculo-notas.py
+- p042-aceptar-estudiante-v2
+- p043-precio-entrada-cine.py
+- p044-calculadora-anio-bisiesto.py 

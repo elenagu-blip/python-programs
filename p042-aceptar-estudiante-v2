@@ -1,0 +1,25 @@
+#p042-aceptar-estudiante-v2.py
+#Este código evalúa si un aspirante es aceptado en la Universidad Kitty Kat SA
+
+print("\033[2J\033[H", end="")
+
+#Entrada de datos
+nombre = input("Dame el nombre del aspirante: ")
+sexo = input("Dame el sexo (h/m): ")
+edad = int(input("Dame la edad: "))
+nota1 = float(input("Dame la calificación 1: "))
+nota2 = float(input("Dame la calificación 2: "))
+nota3 = float(input("Dame la calificación 3: "))
+
+#Proceso
+promedio = (nota1 + nota2 + nota3) / 3
+
+#Salida
+if sexo != "m":
+    print(f"{nombre}, no fuiste aceptado(a): la universidad solo acepta mujeres.")
+elif edad <= 21:
+    print(f"{nombre}, no fuiste aceptado(a): debes ser mayor de 21 años.")
+elif promedio < 8 or promedio > 9.5:
+    print(f"{nombre}, no fuiste aceptado(a): tu promedio ({promedio}) debe estar entre 8 y 9.5.")
+else:
+    print(f"{nombre}, ¡felicidades! Fuiste aceptado(a) en la Universidad Kitty Kat SA.")
