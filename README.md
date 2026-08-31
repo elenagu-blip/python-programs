@@ -70,3 +70,13 @@
 - p042-aceptar-estudiante-v2
 - p043-precio-entrada-cine.py
 - p044-calculadora-anio-bisiesto.py 
+
+#Actividad 7 Ejecución repetida parte 1
+- p045-conteo-ascendente.py
+- p046-conteo-ascendente-v2.py
+- p047-conteo-descendente.py
+- p048-conteo-descendente-v2.py
+- p049-multiplos-continue.py
+- p050-sumar-consecutivos.py
+- p051-conteo-numeros.py
+- p052-adivina-numero.py
