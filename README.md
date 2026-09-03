@@ -80,3 +80,11 @@
 - p050-sumar-consecutivos.py
 - p051-conteo-numeros.py
 - p052-adivina-numero.py
+
+#Actividad 8 Ejecución Repetita parte 2
+- p053-tabla-conversion.py
+- p054-conjetura-collatz.py
+- p055-tabla-multiplicar-while-v1.py
+- p056-tabla-multiplicar-while-v2.py
+- p057-contador-vocales.py
+- p058-interes-simple.py
