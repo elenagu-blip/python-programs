@@ -60,7 +60,7 @@
 - p034-aceptar-estudiante-v2.py
 - p035-tipo-angulo.py
 - p036-tipo-triangulo.py
-
+ 
 #Tarea 2 Ejecución Condicional (Parte 3)
 - p037-numeros-consecutivos.py
 - p038-numero-mayor.py
@@ -88,3 +88,12 @@
 - p056-tabla-multiplicar-while-v2.py
 - p057-contador-vocales.py
 - p058-interes-simple.py
+
+#Actividad 9 Ejecución Repetitiva Parte 3
+- p059-impares-ascendente.py
+- p060-pares-descendente.py
+- p061-promedio-suma.py
+- p062-suma-200.py
+- p063-conversion-temperaturas.py
+- p064-numero-mayor.py
+- p065-verificar-palindromo.py
