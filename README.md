@@ -117,7 +117,6 @@
 - p078-combina-colores.py
 - p079-suma-potencias.py
 
-
 #Tarea 4 Ciclos For
 - p080-compara-rendimiento-inversion.py
 - p081-plan-ahorro-depistos-mensuales.py
