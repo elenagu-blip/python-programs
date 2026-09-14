@@ -97,3 +97,30 @@
 - p063-conversion-temperaturas.py
 - p064-numero-mayor.py
 - p065-verificar-palindromo.py
+
+#Actividad  - Ejecución Repetitiva Ciclo For
+- p065.1-conteo-ascendente-for.py
+- p066-conteo-ascendente-for-v2.py
+- p067-conteo-descendente-for.py
+- p068-conteo-descendente-for-v2.py
+- p069-arriba-abajo.py
+- p070-suma-pares-impares.py
+- p071-suma-promedio-numeros.py
+- p072-suma-mutiplos.py
+- p073-cifrado-cesar.py
+
+#Actividad 10 - Ejecución Repetitiva
+- p074-tablas-todas.py
+- p075-triangulo-caracter.py
+- p076-piramide-caracter.py
+- p077-factorial-numeros.py
+- p078-combina-colores.py
+- p079-suma-potencias.py
+
+
+#Tarea 4 Ciclos For
+- p080-compara-rendimiento-inversion.py
+- p081-plan-ahorro-depistos-mensuales.py
+- p082-cuadro-hueco-caracter.py
+- p083-rombo-caracter.py
+- p084-triangulo-invertido-numeros.py
