@@ -123,3 +123,6 @@
 - p082-cuadro-hueco-caracter.py
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
+
+#EXAMEN PARCIAL NUMERO 1
+- p085-SimuladorVentaCombustible.py
